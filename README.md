@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Zar Hlyan Aung.
 
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning math to deep dive.
+- 👀 I’m interested in AI, Web and Mobile Development.
+- 🌱 I’m currently learning web dev.
 
-- 💞️ I have so many dreams 
-- 📫 However I know I can't always get what I want.
-- So I am going to specialize in AI.
+- 📫 I will learn anything necessary to make my dreams come true.
+
 
 <!---
 ZarHlyanAung/ZarHlyanAung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
