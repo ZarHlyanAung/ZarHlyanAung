@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Zar Hlyan Aung.
+## 👋 Hi, I’m Zar Hlyan Aung.
 
-- 👀 I’m interested in AI, Web and Mobile Development.
-- 🌱 I’m currently learning web dev.
-
-- 📫 I will learn anything necessary to make my dreams come true.
+- 👀 I’m passionate about Mobile Development and AI.
+  
+### 📫 Nodejs, React Native, Kotlin, Tensorflow.
 
 
 <!---
