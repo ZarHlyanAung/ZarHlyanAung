@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Zar Hlyan Aung.
-Nickname: Dyno Kevin
 
 - 👀 I’m passionate about Mobile Development and AI.
   
